@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38841
     wikipedia: http://de.wikipedia.org/wiki/Johannes_R._Becher
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41706#Verbr-derungGedichte
 gutenberg_issued: '2012-12-26'
 gutenberg_type: Text
 identifiers:
